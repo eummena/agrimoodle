@@ -1,4 +1,5 @@
-== agriMoodle == 
+## agriMoodle
+
 The **agriMoodle** bundle is based on a fresh Moodle fork, that:
 
   - provides great green/agri- templates and themes
